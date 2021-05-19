@@ -408,6 +408,9 @@ a:hover {
 	display: block;
 	position: relative;
 }
+.single-more-items a img {
+	height: 125px;
+}
 .single-more-items a span {
 	position: absolute;
 	top: 4%;
